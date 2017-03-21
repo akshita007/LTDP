@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 The following implementation works as follows :
 
 g++ sequentialLTPD.cpp
@@ -15,10 +15,9 @@ The emission matrix (of size m*n)
 The current observation seqence(of size t)
 
 Output:
-
 The viterbi matrix
-
 The hidden observation sequence
+
 =======
 # LTDP
->>>>>>> bb98df54f76895fa75bf22b849d29879eef76260
+
